@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -79,12 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
