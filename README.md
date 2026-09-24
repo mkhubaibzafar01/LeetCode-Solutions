@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0739-daily-temperatures](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
