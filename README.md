@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
@@ -121,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/mkhubaibzafar01/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
